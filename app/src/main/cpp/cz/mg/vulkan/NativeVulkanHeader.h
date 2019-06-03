@@ -1,0 +1,7 @@
+#ifndef CZ_MG_VULKAN_NATIVEVULKANHEADER_H
+#define CZ_MG_VULKAN_NATIVEVULKANHEADER_H
+
+#define VK_USE_PLATFORM_ANDROID_KHR
+#include "../../../libraries/vulkan_wrapper.h"
+
+#endif //CZ_MG_VULKAN_NATIVEVULKANHEADER_H
